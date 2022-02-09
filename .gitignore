@@ -1,3 +1,9 @@
+# CLion
+/.idea
+
+# Build artifacts
+/build
+
 # Prerequisites
 *.d
 
@@ -26,7 +32,14 @@
 *.a
 *.lib
 
-# Executables
+# Executables / compilation artifacts
 *.exe
 *.out
 *.app
+*.nro
+*.elf
+*.nacp
+*.nso
+*.pfs0
+
+
