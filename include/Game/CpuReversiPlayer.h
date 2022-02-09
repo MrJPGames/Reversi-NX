@@ -1,0 +1,8 @@
+#ifndef REVERSI_NX_CPUREVERSIPLAYER_H
+#define REVERSI_NX_CPUREVERSIPLAYER_H
+
+class CpuReversiPlayer {
+
+};
+
+#endif //REVERSI_NX_CPUREVERSIPLAYER_H
